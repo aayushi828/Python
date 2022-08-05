@@ -56,3 +56,6 @@ Button(text="submit", command=getvals).grid(row=7,column=3)
 
 
 root.mainloop()
+
+
+# aayushi
